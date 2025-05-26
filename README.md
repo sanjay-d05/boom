@@ -87,7 +87,7 @@ npm run dev
 
 - **POST /login** — Login user  
   Body: `{ email, password }`  
-  Returns: JWT token or session
+  Returns: JWT token
 
 - **POST /upload** — Upload a video  
   Body: video data/form-data
